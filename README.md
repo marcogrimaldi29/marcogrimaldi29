@@ -17,20 +17,20 @@ Most of my public repositories are open study notes for Microsoft and IT certifi
 | Repository | Topic |
 |:-----------|:------|
 | [az-104-study-notes](https://github.com/marcogrimaldi29/az-104-study-notes) | Azure Administrator Associate |
-| [az-305-bcdr](https://github.com/marcogrimaldi29/az-305-bcdr) | AZ-305 — BCDR & Migrations |
+| [az-305-bcdr](https://github.com/marcogrimaldi29/az-305-bcdr) | AZ-305 — BCDR & Migrations Deep Dive |
 | [az-305-compute](https://github.com/marcogrimaldi29/az-305-compute) | AZ-305 — Compute Services Deep Dive |
-| [az-305-data-analytics](https://github.com/marcogrimaldi29/az-305-data-analytics) | AZ-305 — Data Storage Solutions |
-| [az-305-messaging](https://github.com/marcogrimaldi29/az-305-messaging) | AZ-305 — Messaging & Event Services |
+| [az-305-data-analytics](https://github.com/marcogrimaldi29/az-305-data-analytics) | AZ-305 — Data Storage Solutions Deep Dive |
+| [az-305-messaging](https://github.com/marcogrimaldi29/az-305-messaging) | AZ-305 — Messaging & Event Services Deep Dive |
 | [az-305-study-notes](https://github.com/marcogrimaldi29/az-305-study-notes) | Azure Solutions Architect Expert |
 | [az-400-study-notes](https://github.com/marcogrimaldi29/az-400-study-notes) | Azure DevOps Engineer Expert |
 | [az-500-study-notes](https://github.com/marcogrimaldi29/az-500-study-notes) | Azure Security Engineer Associate |
 | [dp-600-study-notes](https://github.com/marcogrimaldi29/dp-600-study-notes) | Fabric Analytics Engineer Associate |
-| [dp-700-study-notes](https://github.com/marcogrimaldi29/dp-700-study-notes) | Fabric Analytics Engineer Associate |
+| [dp-700-study-notes](https://github.com/marcogrimaldi29/dp-700-study-notes) | Fabric Data Engineer Associate |
 | [engage-center-notes](https://github.com/marcogrimaldi29/engage-center-notes) | Notes on Microsoft Engage Center |
 | [itil-4-foundation](https://github.com/marcogrimaldi29/itil-4-foundation) | ITIL v4 Foundation |
 | [ms-700-study-notes](https://github.com/marcogrimaldi29/ms-700-study-notes) | Teams Administrator Associate |
-| [ms-721-study-notes](https://github.com/marcogrimaldi29/ms-721-study-notes) | Teams Voice Engineer Expert |
-| [waf-cost-opt](https://github.com/marcogrimaldi29/waf-cost-opt) | Azure Well-Architected Framework — Cost Optimization |
+| [ms-721-study-notes](https://github.com/marcogrimaldi29/ms-721-study-notes) | Collaboration Communications Systems Engineer Associate |
+| [waf-cost-opt](https://github.com/marcogrimaldi29/waf-cost-opt) | Azure Well-Architected Framework — Cost Optimization Notes |
 
 ## 🌐 Personal Hub
 
