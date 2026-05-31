@@ -1,6 +1,6 @@
 # 👋 Hey, I'm Marco Grimaldi
 
-Technology enthusiast, language professional, and lifelong learner based in Gran Canaria, Spain.
+Technology enthusiast, language professional, and lifelong learner based in Spain.
 
 I work at the intersection of **IT & Cloud**, **languages & training**, and **inclusive education** — combining problem-solving with collaboration and empathy to build tools and resources that help people learn and grow.
 
@@ -14,7 +14,7 @@ I work at the intersection of **IT & Cloud**, **languages & training**, and **in
 
 My personal hub is available at **[marcogrimaldi29.com](https://marcogrimaldi29.com/)** — it serves as the central gateway to all my study notes, certification reviews, and published content. The latest certification reviews are published directly within the site/repo, while study notes have been built on their own dedicated GitHub repositories, which are listed below. Beyond certifications, the hub also features my blog, CV, and about page.
 
-- **Source (GitHub Repo):** [marcogrimaldi29.github.io](https://github.com/marcogrimaldi29/marcogrimaldi29.github.io)
+- **Source (GitHub Repo):** **[marcogrimaldi29.github.io](https://github.com/marcogrimaldi29/marcogrimaldi29.github.io)**
 
 ```
 marcogrimaldi29.com/
@@ -63,7 +63,7 @@ marcogrimaldi29.com/
 
 Most of my public repositories are open study notes for Microsoft and IT certifications:
 
-| Repository | Topic |
+| Repo | Topic |
 |:-----------|:------|
 | [az-104-study-notes](https://github.com/marcogrimaldi29/az-104-study-notes) | Azure Administrator Associate |
 | [az-305-bcdr](https://github.com/marcogrimaldi29/az-305-bcdr) | AZ-305 — BCDR & Migrations Deep Dive |
@@ -83,9 +83,9 @@ Most of my public repositories are open study notes for Microsoft and IT certifi
 
 ## 🤝 Let's Connect
 
-- **Personal Hub:** [marcogrimaldi29.com](https://marcogrimaldi29.com/)
+- **Personal Hub:** **[marcogrimaldi29.com](https://marcogrimaldi29.com/)**
 - **GitHub:** You're already here — feel free to explore, star, or fork anything useful
 
-If you find any of this content useful, consider giving the repo a ⭐ — it helps others discover it too. Feel free to reach out through my [contact page](https://marcogrimaldi29.com/contact/) and/or [LinkedIn](https://www.linkedin.com/in/marco-grimaldi29/) if you'd like to connect, collaborate, or just say hello.
+If you find any of this content useful, consider giving the repo a ⭐ — it helps others discover it too. Feel free to reach out through my **[contact page](https://marcogrimaldi29.com/contact/)** and/or **[LinkedIn](https://www.linkedin.com/in/marco-grimaldi29/)** if you'd like to connect, collaborate, or just say hello.
 
 ---
