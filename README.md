@@ -59,7 +59,7 @@ marcogrimaldi29.com/
 └── privacy/
 ```
 
-## 📚 Study Notes & Resources
+## 📚 Study Notes, Deep Dives & Resources
 
 Most of my public repositories are open study notes for Microsoft and IT certifications:
 
