@@ -16,49 +16,6 @@ My personal hub is available at **[marcogrimaldi29.com](https://marcogrimaldi29.
 
 - **Source (GitHub Repo):** **[marcogrimaldi29.github.io](https://github.com/marcogrimaldi29/marcogrimaldi29.github.io)**
 
-```
-marcogrimaldi29.com/
-├── about/
-├── cv/
-├── contact/
-├── posts/
-├── collections/
-│   ├── cert-reviews/
-│   │   ├── microsoft-az-900/
-│   │   ├── microsoft-ai-900/
-│   │   ├── microsoft-dp-900/
-│   │   ├── microsoft-pl-900/
-│   │   ├── microsoft-sc-900/
-│   │   ├── microsoft-ms-700/
-│   │   ├── google-it-support/
-│   │   ├── google-project-management/
-│   │   ├── google-data-analytics/
-│   │   └── google-automation-python/
-│   ├── study-notes/  ← links to the repos below
-│   │   ├── az-104-study-notes/
-│   │   ├── az-305-study-notes/
-│   │   ├── az-305-bcdr/
-│   │   ├── az-305-compute/
-│   │   ├── az-305-data-analytics/
-│   │   ├── az-305-messaging/
-│   │   ├── az-400-study-notes/
-│   │   ├── az-500-study-notes/
-│   │   ├── dp-600-study-notes/
-│   │   ├── dp-700-study-notes/
-│   │   ├── engage-center-notes/
-│   │   ├── itil-4-foundation/
-│   │   ├── ms-700-study-notes/
-│   │   ├── ms-721-study-notes/
-│   │   └── waf-cost-opt/
-│   └── resources/
-│       ├── resources-ai/
-│       ├── resources-microsoft/
-│       ├── resources-github-jekyll-markdown/
-│       └── resources-german/
-├── tags/
-└── privacy/
-```
-
 ## 📚 Study Notes, Deep Dives & Resources
 
 Most of my public repositories are open study notes for Microsoft and IT certifications:
@@ -77,6 +34,7 @@ Most of my public repositories are open study notes for Microsoft and IT certifi
 | [dp-700-study-notes](https://github.com/marcogrimaldi29/dp-700-study-notes) | Fabric Data Engineer Associate (DP-700) — Study Notes |
 | [engage-center-notes](https://github.com/marcogrimaldi29/engage-center-notes) | Microsoft Engage Center — Deep Dive |
 | [itil-4-foundation](https://github.com/marcogrimaldi29/itil-4-foundation) | ITIL® 4 Foundation — Study Notes |
+| [ms-102-study-notes](https://github.com/marcogrimaldi29/ms-102-study-notes) | M365 Administrator Expert (MS-102) — Study Notes |
 | [ms-700-study-notes](https://github.com/marcogrimaldi29/ms-700-study-notes) | Teams Administrator Associate (MS-700) — Study Notes |
 | [ms-721-study-notes](https://github.com/marcogrimaldi29/ms-721-study-notes) | Collaboration Communications Systems Engineer Associate (MS-721) — Study Notes |
 | [waf-cost-opt](https://github.com/marcogrimaldi29/waf-cost-opt) | Azure Well-Architected Framework: Cost Optimization — Deep Dive |
