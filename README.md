@@ -4,6 +4,15 @@
   </a>
 </p>
 
+<p align="center">
+  <a href="https://github.com/marcogrimaldi29">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://www.linkedin.com/in/marco-grimaldi29/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</p>
+
 # 👋 Hey, I'm Marco Grimaldi
 
 Technology enthusiast, language professional, and lifelong learner based in Spain.
@@ -48,7 +57,8 @@ Most of my public repositories are open study notes for Microsoft and IT certifi
 ## 🤝 Let's Connect
 
 - **Personal Hub:** **[marcogrimaldi29.com](https://marcogrimaldi29.com/)**
-- **GitHub:** You're already here — feel free to explore, star, or fork anything useful
+- [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/marcogrimaldi29) — You're already here; feel free to explore, star, or fork anything useful
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marco-grimaldi29/) — Let's connect, collaborate, or just say hello
 
 If you find any of this content useful, consider giving the repo a ⭐ — it helps others discover it too. Feel free to reach out through my **[contact page](https://marcogrimaldi29.com/contact/)** and/or **[LinkedIn](https://www.linkedin.com/in/marco-grimaldi29/)** if you'd like to connect, collaborate, or just say hello.
 
