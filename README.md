@@ -1,3 +1,9 @@
+<p align="center">
+  <a href="https://marcogrimaldi29.com/">
+    <img src="./banner.png" alt="Marco Grimaldi" width="100%" />
+  </a>
+</p>
+
 # 👋 Hey, I'm Marco Grimaldi
 
 Technology enthusiast, language professional, and lifelong learner based in Spain.
