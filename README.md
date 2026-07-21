@@ -39,9 +39,11 @@ Most of my public repositories are open study notes for Microsoft and IT certifi
 | [az-305-messaging](https://github.com/marcogrimaldi29/az-305-messaging) | AZ-305: Messaging & Event Services — Deep Dive |
 | [az-305-study-notes](https://github.com/marcogrimaldi29/az-305-study-notes) | Azure Solutions Architect Expert (AZ-305) — Study Notes |
 | [az-400-study-notes](https://github.com/marcogrimaldi29/az-400-study-notes) | Azure DevOps Engineer Expert (AZ-400) — Study Notes |
+| [az-400-study-notes-v2](https://github.com/marcogrimaldi29/az-400-study-notes-v2) | Azure DevOps Engineer Expert (AZ-400) v2 — Study Notes |
 | [az-500-study-notes](https://github.com/marcogrimaldi29/az-500-study-notes) | Azure Security Engineer Associate (AZ-500) — Study Notes |
 | [dp-600-study-notes](https://github.com/marcogrimaldi29/dp-600-study-notes) | Fabric Analytics Engineer Associate (DP-600) — Study Notes |
 | [dp-700-study-notes](https://github.com/marcogrimaldi29/dp-700-study-notes) | Fabric Data Engineer Associate (DP-700) — Study Notes |
+| [dp-700-study-notes-v2](https://github.com/marcogrimaldi29/dp-700-study-notes-v2) | Fabric Data Engineer Associate (DP-700) v2 — Study Notes |
 | [engage-center-notes](https://github.com/marcogrimaldi29/engage-center-notes) | Microsoft Engage Center — Deep Dive |
 | [itil-4-foundation](https://github.com/marcogrimaldi29/itil-4-foundation) | ITIL® 4 Foundation — Study Notes |
 | [ms-102-study-notes](https://github.com/marcogrimaldi29/ms-102-study-notes) | M365 Administrator Expert (MS-102) — Study Notes |
