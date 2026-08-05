@@ -8,6 +8,10 @@
   <a href="https://www.linkedin.com/in/marco-grimaldi29/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 </p>
 
+<p align="center">
+  <a href="https://github.com/marcogrimaldi29"><img src="https://streak-stats.demolab.com?user=marcogrimaldi29&theme=dark&hide_border=true&background=0b1422&border=1f2937&stroke=1f2937&ring=2ec5c5&fire=3fb950&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=4493f8&sideLabels=2ec5c5&dates=8b949e" alt="Marco Grimaldi's GitHub streak" /></a>
+</p>
+
 # 👋 Hey, I'm Marco Grimaldi
 
 Technology enthusiast, language professional, and lifelong learner based in Spain.
@@ -58,9 +62,5 @@ Most of my public repositories are open study notes for Microsoft and IT certifi
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marco-grimaldi29/) — Let's connect, collaborate, or just say hello
 
 If you find any of this content useful, consider giving the repo a ⭐ — it helps others discover it too. Feel free to reach out through my **[contact page](https://marcogrimaldi29.com/contact/)** and/or **[LinkedIn](https://www.linkedin.com/in/marco-grimaldi29/)** if you'd like to connect, collaborate, or just say hello.
-
----
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=marcogrimaldi29)](https://git.io/streak-stats)
 
 ---
