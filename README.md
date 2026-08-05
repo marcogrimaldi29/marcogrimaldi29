@@ -60,3 +60,7 @@ Most of my public repositories are open study notes for Microsoft and IT certifi
 If you find any of this content useful, consider giving the repo a ⭐ — it helps others discover it too. Feel free to reach out through my **[contact page](https://marcogrimaldi29.com/contact/)** and/or **[LinkedIn](https://www.linkedin.com/in/marco-grimaldi29/)** if you'd like to connect, collaborate, or just say hello.
 
 ---
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=marcogrimaldi29)](https://git.io/streak-stats)
+
+---
