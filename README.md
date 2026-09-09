@@ -49,6 +49,7 @@ Most of my public repositories are open study notes for Microsoft and IT certifi
 | [dp-700-study-notes](https://github.com/marcogrimaldi29/dp-700-study-notes) | Fabric Data Engineer Associate (DP-700) — Study Notes |
 | [dp-700-study-notes-v2](https://github.com/marcogrimaldi29/dp-700-study-notes-v2) | Fabric Data Engineer Associate (DP-700) v2 — Study Notes |
 | [engage-center-notes](https://github.com/marcogrimaldi29/engage-center-notes) | Microsoft Engage Center — Deep Dive |
+| [gh-300-study-notes](https://github.com/marcogrimaldi29/gh-300-study-notes) | GitHub Copilot (GH-300) — Study Notes |
 | [gh-900-study-notes](https://github.com/marcogrimaldi29/gh-900-study-notes) | GitHub Foundations (GH-900) — Study Notes |
 | [itil-4-foundation](https://github.com/marcogrimaldi29/itil-4-foundation) | ITIL® 4 Foundation — Study Notes |
 | [ms-102-study-notes](https://github.com/marcogrimaldi29/ms-102-study-notes) | M365 Administrator Expert (MS-102) — Study Notes |
