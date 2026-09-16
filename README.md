@@ -36,6 +36,7 @@ Most of my public repositories are open study notes for Microsoft and IT certifi
 
 | Repo | Topic |
 |:-----------|:------|
+| [ai-103-study-notes](https://github.com/marcogrimaldi29/ai-103-study-notes) | Azure AI Apps and Agents Developer Associate (AI-103) — Study Notes |
 | [az-104-study-notes](https://github.com/marcogrimaldi29/az-104-study-notes) | Azure Administrator Associate (AZ-104) — Study Notes |
 | [az-305-bcdr](https://github.com/marcogrimaldi29/az-305-bcdr) | AZ-305: BCDR & Migrations — Deep Dive |
 | [az-305-compute](https://github.com/marcogrimaldi29/az-305-compute) | AZ-305: Compute Services — Deep Dive |
