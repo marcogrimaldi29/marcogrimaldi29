@@ -14,25 +14,24 @@
 
 # 👋 Hey, I'm Marco Grimaldi
 
-Technology enthusiast, language professional, and lifelong learner based in Spain.
+Cloud Architect & Consultant, Tech Enthusiast, and Lifelong Learner based in Spain.
 
-I work at the intersection of **IT & Cloud**, **languages & training**, and **inclusive education** — combining problem-solving with collaboration and empathy to build tools and resources that help people learn and grow.
+I work at the intersection of **cloud architecture** and **knowledge sharing**, drawing on a background in sound engineerinig, language teaching and inclusive education — combining problem-solving with collaboration and empathy to build tools and resources that help people learn and grow.
 
 ## 🛠️ What I Do
 
-- **Cloud & Infrastructure** — Microsoft 365, Azure and Cloud Voice administration and architectures
+- **Cloud Solution Architecture** — Advising clients on building resilient, cost-efficient, and well-governed environments, aligned with the Azure Well-Architected and Cloud Adoption Frameworks
+- **Resiliency & Reliability** — Resiliency workshops, formal risk assessments, and Disaster Recovery, Business Continuity, and Major Incident Response Plans
+- **Cost Optimization & Governance** — Cost Optimization, FinOps, and Governance workshops to help clients control cloud spend and stay compliant
 - **Certification & Exam Prep** — Creating structured study materials for professional certifications
-- **Languages & Training** — Foreign language teaching, academic support, and inclusive education for individuals and professionals
 
 ## 🌐 Personal Hub
 
 My personal hub is available at **[marcogrimaldi29.com](https://marcogrimaldi29.com/)** — it serves as the central gateway to all my study notes, certification reviews, and published content. The latest certification reviews are published directly within the site/repo, while study notes have been built on their own dedicated GitHub repositories, which are listed below. Beyond certifications, the hub also features my blog, CV, and about page.
 
-- **Source (GitHub Repo):** **[marcogrimaldi29.github.io](https://github.com/marcogrimaldi29/marcogrimaldi29.github.io)**
-
 ## 📚 Study Notes, Deep Dives & Resources
 
-Most of my public repositories are open study notes for Microsoft and IT certifications:
+Most of my public repositories are open study notes for Microsoft and IT-related certifications, alongside deep dives into topics that are core to my work:
 
 | Repo | Topic |
 |:-----------|:------|
