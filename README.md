@@ -56,6 +56,7 @@ Most of my public repositories are open study notes for Microsoft and IT-related
 | [ms-102-study-notes](https://github.com/marcogrimaldi29/ms-102-study-notes) | M365 Administrator Expert (MS-102) — Study Notes |
 | [ms-700-study-notes](https://github.com/marcogrimaldi29/ms-700-study-notes) | Teams Administrator Associate (MS-700) — Study Notes |
 | [ms-721-study-notes](https://github.com/marcogrimaldi29/ms-721-study-notes) | Collaboration Communications Systems Engineer Associate (MS-721) — Study Notes |
+| [sc-500-study-notes](https://github.com/marcogrimaldi29/sc-500-study-notes) | Cloud and AI Security Engineer Associate (SC-500) — Study Notes |
 | [waf-cost-opt](https://github.com/marcogrimaldi29/waf-cost-opt) | Azure Well-Architected Framework: Cost Optimization — Deep Dive |
 
 ## 🤝 Let's Connect
