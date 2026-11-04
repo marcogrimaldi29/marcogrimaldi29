@@ -48,6 +48,7 @@ Most of my public repositories are open study notes for Microsoft and IT-related
 | [dp-600-study-notes](https://github.com/marcogrimaldi29/dp-600-study-notes) | Fabric Analytics Engineer Associate (DP-600) — Study Notes |
 | [dp-700-study-notes](https://github.com/marcogrimaldi29/dp-700-study-notes) | Fabric Data Engineer Associate (DP-700) — Study Notes |
 | [dp-700-study-notes-v2](https://github.com/marcogrimaldi29/dp-700-study-notes-v2) | Fabric Data Engineer Associate (DP-700) v2 — Study Notes |
+| [dp-800-study-notes](https://github.com/marcogrimaldi29/dp-800-study-notes) | SQL AI Developer Associate (DP-800) — Study Notes |
 | [engage-center-notes](https://github.com/marcogrimaldi29/engage-center-notes) | Microsoft Engage Center — Deep Dive |
 | [gh-300-study-notes](https://github.com/marcogrimaldi29/gh-300-study-notes) | GitHub Copilot (GH-300) — Study Notes |
 | [gh-600-study-notes](https://github.com/marcogrimaldi29/gh-600-study-notes) | Agentic AI Developer (GH-600) — Study Notes |
